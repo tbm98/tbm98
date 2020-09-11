@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### About Me 👋
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Flutter
@@ -10,3 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🧳 My CV (Curriculum Vitae) [CV_TranBinhMinh.pdf](https://github.com/tbm98/my_cv/blob/master/CV_TranBinhMinh.pdf)
